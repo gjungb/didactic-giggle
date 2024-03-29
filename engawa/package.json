@@ -4,10 +4,12 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@nestjs/schematics": "10.0.1",
     "@nx/js": "18.2.1",
+    "@nx/nest": "18.2.1",
     "@nx/workspace": "18.2.1",
     "nx": "18.2.1"
-  }
+  },
+  "dependencies": {}
 }
